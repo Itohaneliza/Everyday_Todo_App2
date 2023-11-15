@@ -32,7 +32,7 @@ const App = () => {
   return (
     <main>
       <div className="container">
-        <h1 className="title">ToDo App</h1>
+        <h1 className="title">TODO APP</h1>
 
         <div className="input_holder">
           <input
